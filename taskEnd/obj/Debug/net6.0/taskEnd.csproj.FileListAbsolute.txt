@@ -1,0 +1,15 @@
+C:\Users\Inysik\Desktop\taskEnd\bin\Debug\net6.0\taskEnd.exe
+C:\Users\Inysik\Desktop\taskEnd\bin\Debug\net6.0\taskEnd.deps.json
+C:\Users\Inysik\Desktop\taskEnd\bin\Debug\net6.0\taskEnd.runtimeconfig.json
+C:\Users\Inysik\Desktop\taskEnd\bin\Debug\net6.0\taskEnd.dll
+C:\Users\Inysik\Desktop\taskEnd\bin\Debug\net6.0\taskEnd.pdb
+C:\Users\Inysik\Desktop\taskEnd\obj\Debug\net6.0\taskEnd.csproj.AssemblyReference.cache
+C:\Users\Inysik\Desktop\taskEnd\obj\Debug\net6.0\taskEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inysik\Desktop\taskEnd\obj\Debug\net6.0\taskEnd.AssemblyInfoInputs.cache
+C:\Users\Inysik\Desktop\taskEnd\obj\Debug\net6.0\taskEnd.AssemblyInfo.cs
+C:\Users\Inysik\Desktop\taskEnd\obj\Debug\net6.0\taskEnd.csproj.CoreCompileInputs.cache
+C:\Users\Inysik\Desktop\taskEnd\obj\Debug\net6.0\taskEnd.dll
+C:\Users\Inysik\Desktop\taskEnd\obj\Debug\net6.0\refint\taskEnd.dll
+C:\Users\Inysik\Desktop\taskEnd\obj\Debug\net6.0\taskEnd.pdb
+C:\Users\Inysik\Desktop\taskEnd\obj\Debug\net6.0\taskEnd.genruntimeconfig.cache
+C:\Users\Inysik\Desktop\taskEnd\obj\Debug\net6.0\ref\taskEnd.dll
